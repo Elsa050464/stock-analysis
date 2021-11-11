@@ -5,8 +5,7 @@ The purpose of this Project is to apply refactoring code that is restructuring t
 Results:
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. Based on the runtime results of the original script versus refactored script, we saved a tremendous amount of time in the refactored script averaging 0.125 seconds for both 2017 and 2018 years and still gets the same results. Other than the runtime the end results of the project did not change. We can further conclude that the data is not compromised
 
-Screenshots
-App Screenshot
+![image](https://user-images.githubusercontent.com/93121665/141265915-74f2ea5e-236b-41dc-99f1-f1a99d617e04.png)
 
 Summary: In a summary statement, address the following questions.
 a. What are the advantages or disadvantages of refactoring code?
