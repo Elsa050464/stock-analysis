@@ -1,4 +1,4 @@
-# Stock Analysis With Excel VBA
+# Stock Analysis With Excel VBA Refactored
 Overview of Project:
 The purpose of this Project is to apply refactoring code that is restructuring the codes already use in the same set of data without changing the end results. Refactoring data also helps the programmer simplify, easily comprehendable and use less memory.
 
